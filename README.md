@@ -5,10 +5,10 @@ Work in progress
 ![Snow Play](https://rondagdag.github.io/aframe-snow-play/snowplay.gif)
 
 3rd Person Camera
-![3rd Person Camera](https://rondagdag.github.io/aframe-snow-play/camera.html)
+https://rondagdag.github.io/aframe-snow-play/camera.html
 
 First Person Controller
-![1st Person Controller](https://rondagdag.github.io/aframe-snow-play/camera.html)
+https://rondagdag.github.io/aframe-snow-play/camera.html
 
 
 Thanks to David Erickson https://github.com/derickson/aframe-play
