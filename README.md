@@ -2,8 +2,6 @@
 
 Work in progress
 
-![Snow Play] https://rondagdag.github.io/aframe-snow-play/camera.html
+![Snow Play](https://rondagdag.github.io/aframe-snow-play/snowvr.gif "Playing with snowball")
 
 Thanks to David Erickson https://github.com/derickson/aframe-play
-
-![Spectator](https://github.com/derickson/aframe-play/blob/master/greenscreencomposite.gif?raw=true "Spectator Work In Progress")
