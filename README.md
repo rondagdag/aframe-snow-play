@@ -15,3 +15,5 @@ https://rondagdag.github.io/aframe-snow-play/camera.html
 
 
 Thanks to David Erickson https://github.com/derickson/aframe-play
+Mary Knize https://github.com/captainpainway/a-frame-snowman
+Kevin Ngo https://github.com/ngokevin/aframe-firebase-component
