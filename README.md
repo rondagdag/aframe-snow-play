@@ -2,6 +2,6 @@
 
 Work in progress
 
-![Snow Play](https://rondagdag.github.io/aframe-snow-play/snowvr.gif)
+![Snow Play](https://rondagdag.github.io/aframe-snow-play/snowplay.gif)
 
 Thanks to David Erickson https://github.com/derickson/aframe-play
